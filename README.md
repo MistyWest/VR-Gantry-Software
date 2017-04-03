@@ -5,7 +5,7 @@
 Send gantry positioning through Serial according to position and orientation of VR headset.
 
 ### Dependencies ###
-[Software Repository](https://github.com/MistyWestAdmin/VR-Gantry-Software)<br>
+[Mechanical Repository](https://github.com/MistyWestAdmin/VR-Gantry-Mechanical)<br>
 [Firmware Repository](https://github.com/MistyWestAdmin/VR-Gantry-Firmware)
 
 ### Configuration ###
