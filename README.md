@@ -4,30 +4,4 @@
 
 Send gantry positioning through Serial according to position and orientation of VR headset.
 
-### Dependencies ###
-[Mechanical Repository](https://github.com/MistyWestAdmin/VR-Gantry-Mechanical)<br>
-[Firmware Repository](https://github.com/MistyWestAdmin/VR-Gantry-Firmware)
-
-### Configuration ###
-
-* Dependencies: OpenVR
-
-* Project Configuration Properties for Visual Studios
-    * General
-        * Configuration Type: Application (.exe)
-        * Character Set: Use Multi-Byte Character Set
-    * VC++ Directories
-        * Include Directories: ~\openvr\headers
-        * Library Directories: ~\openvr\lib\win64
-    * Linker > Input
-        * Additional Dependencies: ~\openvr\lib\win64\openvr_api.lib
-
-### Contact ###
-
-* Repo owner: Justin
-* Contributors: Walker, Div
-* [Mistywest](https://mistywest.com/)
-<br><br>
-![](https://mistywest.com/wp-content/uploads/2015/11/logo_sticky.png)
-<br>
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+The repository is moved to https://bitbucket.org/mw_active/vr-gantry-software
